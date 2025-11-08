@@ -20,7 +20,7 @@ showcasing embedded systems and control engineering skills to employers and revi
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 line-following-robot-pid-ultrasonic/
@@ -34,7 +34,7 @@ line-following-robot-pid-ultrasonic/
 
 ---
 
-## 🔧 Hardware Overview
+##  Hardware Overview
 
 | Module              | Connection (default) |
 |---------------------|----------------------|
@@ -53,7 +53,7 @@ Adapt the pin mapping in `src/main.cpp` if your wiring differs.
 
 ---
 
-## 🧠 Control Strategy
+##  Control Strategy
 
 ### Line Following (PID)
 
@@ -85,7 +85,7 @@ Tune on track and commit changes as iterations.
 
 ---
 
-## 🧪 Testing & Evaluation
+##  Testing & Evaluation
 
 See `docs/system_overview.md` for:
 
@@ -95,7 +95,7 @@ See `docs/system_overview.md` for:
 
 ---
 
-## 🎯 Why This Project Matters
+##  Why This Project Matters
 
 This project demonstrates:
 
